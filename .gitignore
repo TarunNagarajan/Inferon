@@ -27,3 +27,4 @@ __pycache__/
 *.log
 *.swp
 *.DS_Store
+resources/
